@@ -2,7 +2,7 @@
 </h1>
 
 <div align="center">
-   <a href="https://www.sitepoint.com/github-profile-readme/https://www.linkedin.com/in/claire-karsenti/">
+   <a href="https://www.linkedin.com/in/claire-karsenti/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white&style=plastic" alt="LinkedIn Badge"/> 
 </div>
 
