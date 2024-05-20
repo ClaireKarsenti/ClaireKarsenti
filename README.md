@@ -24,13 +24,13 @@
     <img src="https://skillicons.dev/icons?i=sass,bootstrap,tailwind,materialui&theme=light" />
   </a>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,redux,nextjs,nodejs,express,vite,jest&theme=light" />
+    <img src="https://skillicons.dev/icons?i=react,solidjs,redux,nextjs,nodejs,express,vite,jest&theme=light" />
   </a>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,firebase&theme=light" />
   </a>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vercel,vscode,git,gitlab,github,figma&theme=light" />
+    <img src="https://skillicons.dev/icons?i=vercel,vscode,git,gitlab,github,figma,obsidian&theme=light" />
   </a>
 </div>
 
